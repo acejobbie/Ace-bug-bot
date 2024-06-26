@@ -23,15 +23,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254712703241']
-global.ownMain = '254712703241'
-global.NamaOwner = ' ⁂MALIBU⁂' //gausah diganti 
-global.sessionName = 'ryokunsession'
+global.owner = ['254726856795']
+global.ownMain = '254726856795'
+global.NamaOwner = ' 🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥' //gausah diganti 
+global.sessionName = 'acesession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'Bang bug bot' //ganti aj klo mau
-global.author = 'Bang' //ganti aj klo mau
-global.packname = 'bug' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz' //gausah diganti
+global.namabot = '𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑' //ganti aj klo mau
+global.author = '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥' //ganti aj klo mau
+global.packname = 'ɪ αɱ 𝙰ϲе™⟬𝟭⟭' //ganti aj klo mau
+global.yt = 'https://chat.whatsapp.com/LMR6Zi4AR962Uh2hc6t1Fj' //gausah diganti
 
 //===========================//
 
@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = `254`
 global.system = {
-gmail: `kiddomalibu@gmail.com`,
+gmail: `acejobbie98@gmail.com`,
 }
 
 //===========================//
@@ -73,7 +73,7 @@ menuf: '┗━═┅═━––––––๑\n',
 	haka: '❏═┅═━━━┅',
 	lopr: 'Ⓟ',
 	lolm: 'Ⓛ',
-	htjava: '❃'
+	htjava: '𖤍'
 }
 
 //===========================//
