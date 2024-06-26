@@ -26,12 +26,12 @@ global.prefa = ['','!','.',',','🐤','🗿']
 global.owner = ['254726856795']
 global.ownMain = '254726856795'
 global.NamaOwner = ' 🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥' //gausah diganti 
-global.sessionName = 'ryokunsession'
+global.sessionName = 'acesession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑' //ganti aj klo mau
 global.author = '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥' //ganti aj klo mau
 global.packname = 'ɪ αɱ 𝙰ϲе™⟬𝟭⟭' //ganti aj klo mau
-global.yt = 'https://t.me/+njMXs03qRLQ3ZmNk' //gausah diganti
+global.yt = 'https://chat.whatsapp.com/LMR6Zi4AR962Uh2hc6t1Fj' //gausah diganti
 
 //===========================//
 
@@ -73,7 +73,7 @@ menuf: '┗━═┅═━––––––๑\n',
 	haka: '❏═┅═━━━┅',
 	lopr: 'Ⓟ',
 	lolm: 'Ⓛ',
-	htjava: '❃'
+	htjava: '𖤍'
 }
 
 //===========================//
