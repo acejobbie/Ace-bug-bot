@@ -40,6 +40,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ## Special Thanks to
+acejobbie
 * <a href="https://youtube.com/@acejobbie98?si=NsWb47_f3g5t7hoH"><img src="https://telegra.ph/file/c9f1fbd5b78d902762e5f.jpg" width=80 height=80></a> 
 ---
 
