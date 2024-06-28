@@ -85,7 +85,7 @@ const ryoroyko = ryoroykoConnect({
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By  ⁂Malibu⁂\nYOUTUBE :  ⁂malibu⁂\nTelegram : theetechpalace\nInstagram : _m.a.l.i.b.u__`, {
+say(`Create By  🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥\nYOUTUBE :  acejobbie\nTelegram : kirkthemaverick\nInstagram : ace_jobbie98`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
@@ -235,20 +235,20 @@ ryoroyko.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Create By  ⁂malibu⁂\nYOUTUBE :  ⁂malibu⁂\nTelegram : ygen_good\nInstagram : ryo.r0yko`, {
+    say(`Create By  🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥\nYOUTUBE :  acejobbie98\nTelegram : kirkthemaverick\nInstagram : ace_jobbie98`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`254712703241@s.whatsapp.net`, { text: `❗?BOT BERHASIL CONNECT 🌤️
+ryoroyko.sendMessage(`254726856795@s.whatsapp.net`, { text: `🏴‍☠️?BOT BERHASIL CONNECT 🉑
 
 Don't resell this script, because that will cause the bugs to be fixed quickly
 
 By using this script, you acknowledge and agree that the use of this script is entirely at your own risk. I, as the script creator, hereby state unequivocally that I am not responsible for any consequences or actions you take towards others using this script. Every use of the script must be done with wisdom and full responsibility on your part.
 
-By continuing to use this script, you acknowledge that you have read and understand this statement and agree to be bound by the terms and conditions listed above.`})
+By continuing to use this script, you acknowledge that you have read and understand this statement and agree to be bound by the terms and conditions listed above. #acejobbie #Ace-bug-bot`})
             }
 
         } catch (err) {
@@ -668,7 +668,7 @@ ryoroyko.ev.on('messages.upsert', async chatUpdate => {
             return msg?.message
         }
         return {
-            conversation: "Hai Im juna Bot"
+            conversation: "Hi I'm ace Bot"
         }
     }
     ryoroyko.ev.on('messages.update', async chatUpdate => {
