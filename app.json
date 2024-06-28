@@ -1,18 +1,28 @@
 {
   "name": "Ace-bug-bot",
-  "description": "whatsapp bot by Ace",
+  "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/acejobbie/Ace-bug-bot",
   "logo": "https://telegra.ph/file/c9f1fbd5b78d902762e5f.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
+"env": {
+      "autoviewstatus": {
+        "description": "Put TRUE,if you want the bot to view status ",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "Heroku account api key, https://dashboard.heroku.com/account",
+        "required": false
+      }
+    },
   "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
-  ]
+              {
+                "url": "heroku/nodejs"
+              },
+              {
+                "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+              },
+              {
+                "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+              }
+            ]
 }
