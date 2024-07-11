@@ -1,7 +1,7 @@
 - ***`Get your creds.json` by tapping [`HERE`](https://pair-malibu.onrender.com).***
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
-   - You will get a session ID in your WhatsApp. Copy it.
+   - You will get a `creds.json` file in your WhatsApp. Upload it to your sessions folder.
 
 ## Heroku Setup:
 
